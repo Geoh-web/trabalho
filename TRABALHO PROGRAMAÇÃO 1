@@ -1,0 +1,4 @@
+dia= input('qual o dia do seu nascimento? ')
+mes= input(' qual o mes do seu nascimento? ')
+ano= input(' qual e o ano do seu nascimento? ')
+print('vocÊ nasceu em dia', dia, 'do mes', mes ,'do ano de', ano, '.' )
